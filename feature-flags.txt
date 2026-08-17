@@ -1,1 +1,5 @@
 checkout_v2=false
+release_checkout_v2=5%
+monitor_errors=true
+monitor_latency=true
+target_checkout_v2=100%
